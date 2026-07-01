@@ -1,0 +1,685 @@
+canonical_identifier: bkk:krp/KR6r0022/v1
+canonical_location: https://kanripo.org/bkk/KR6r0022/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: (古今圖書集成)釋教部彙考
+  identifiers:
+    alt_id:
+    - X77n1521
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X77/X77n1521.xml
+    old_id: X77n1521
+  edition:
+    short: bkk
+editions:
+- short: 卍續
+  label: 卍續
+  source_xml_id: wit.orig
+- short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6r0022_000.yaml, hash: 'sha256:d2f63136ecb508b2e2552b4d9102af173c70b5e9192de3d1c1d0b7bd4865bd3b'}
+  - {seq: 1, filename: KR6r0022_001.yaml, hash: 'sha256:d5fdebb5b75aeadfd8f877576261cd395e1b13eb91e6201648df5f33d9628488'}
+  - {seq: 2, filename: KR6r0022_002.yaml, hash: 'sha256:86191b7cc8ec222aecb9ada10eab547cb2193e3d73f34e62a24b37985501b37c'}
+  - {seq: 3, filename: KR6r0022_003.yaml, hash: 'sha256:d12ec37d199cda7aa672e8be66193caff2627fe5216a2275d1f8bdd680ab5509'}
+  - {seq: 4, filename: KR6r0022_004.yaml, hash: 'sha256:e0ebce79a8e2ceaa327a1ef3e3faa42291a7c8121003fa0f4219e3517d1ee0fd'}
+  - {seq: 5, filename: KR6r0022_005.yaml, hash: 'sha256:c7e0b805bc36019ece91a31316f5b3df6758abd0392896ea396dba1090f3f520'}
+  - {seq: 6, filename: KR6r0022_006.yaml, hash: 'sha256:9f76fbfdbae1b0353575161c63c4a0f1e9aea009d9b3c8563e0c8334df7f74f7'}
+  - {seq: 7, filename: KR6r0022_007.yaml, hash: 'sha256:e48f880b79fb76560906de4f71746fc34e57753102118b02da0df2ae97de1456'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6r0022_000.markers.yaml, hash: 'sha256:ba38e16de4d2c12c80e5e5c000b9c01601a87d05bed633ca1ed76fbf3833235e'}
+  - {seq: 1, role: markers, filename: assets/KR6r0022_001.markers.yaml, hash: 'sha256:734f1c5cf9c4902cb07a59bf4e6e91d6a87a85237a2d51a99f6fdaa15199737f'}
+  - {seq: 2, role: markers, filename: assets/KR6r0022_002.markers.yaml, hash: 'sha256:3232b032e1cd9384dedb32aeb76ca98923c06d8e12cfd7897cdd6ba73b50c2bd'}
+  - {seq: 3, role: markers, filename: assets/KR6r0022_003.markers.yaml, hash: 'sha256:2f66f248dc4aacc54e7fb8cb7f3c592014780e534be07493b44ade64faf10d05'}
+  - {seq: 4, role: markers, filename: assets/KR6r0022_004.markers.yaml, hash: 'sha256:0936ca6d8452dd325c0aa1eeb9886a60b107ccef1a1951e02976581fd995c26c'}
+  - {seq: 5, role: markers, filename: assets/KR6r0022_005.markers.yaml, hash: 'sha256:d647aaef95ba6bf9cf2fbd0dd7cb641dcd7aa7ad4b8a8913fff3877cfb87a8fd'}
+  - {seq: 6, role: markers, filename: assets/KR6r0022_006.markers.yaml, hash: 'sha256:852705ecc6f34c26dd93f7cdd5a11e5de61f64d8a8f0f756a2517975a087c4ff'}
+  - {seq: 7, role: markers, filename: assets/KR6r0022_007.markers.yaml, hash: 'sha256:14fb053f8ce175c7da9913e8e0ac1fe9fbb76bcc2d0346481ced91c977da3cbd'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6r0022_X_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: (古今圖書集成)釋教部彚考目次
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0022_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 18300
+  label: 古今圖書集成釋教部彚考卷第一
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0022_X_001-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 周
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0022_X_001-mulu-2
+    span:
+    - body
+    - 1350
+    - 1350
+  label: 秦
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0022_X_001-mulu-3
+    span:
+    - body
+    - 1474
+    - 1474
+  label: 漢
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0022_X_001-mulu-4
+    span:
+    - body
+    - 1666
+    - 1666
+  label: 後漢
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0022_X_001-mulu-5
+    span:
+    - body
+    - 2849
+    - 2849
+  label: 魏
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0022_X_001-mulu-6
+    span:
+    - body
+    - 2994
+    - 2994
+  label: 吳
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0022_X_001-mulu-7
+    span:
+    - body
+    - 3283
+    - 3283
+  label: 晉
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0022_X_001-mulu-8
+    span:
+    - body
+    - 3648
+    - 3648
+  label: 宋
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0022_X_001-mulu-9
+    span:
+    - body
+    - 5153
+    - 5153
+  label: 齊
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0022_X_001-mulu-10
+    span:
+    - body
+    - 5543
+    - 5543
+  label: 梁
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0022_X_001-mulu-11
+    span:
+    - body
+    - 7693
+    - 7693
+  label: 陳
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0022_X_001-mulu-12
+    span:
+    - body
+    - 8100
+    - 8100
+  label: 北魏
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0022_X_002-juan-start
+    span:
+    - body
+    - 0
+    - 10601
+  label: 古今圖書集成釋教部彚考卷第二
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0022_X_002-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 北齊
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0022_X_002-mulu-2
+    span:
+    - body
+    - 680
+    - 680
+  label: 隋
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0022_X_002-mulu-3
+    span:
+    - body
+    - 936
+    - 936
+  label: 唐
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0022_X_003-juan-start
+    span:
+    - body
+    - 0
+    - 11999
+  label: 古今圖書集成釋教部彚考卷第三
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0022_X_003-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 後梁
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0022_X_003-mulu-2
+    span:
+    - body
+    - 189
+    - 189
+  label: 後唐
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0022_X_003-mulu-3
+    span:
+    - body
+    - 422
+    - 422
+  label: 後晉
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0022_X_003-mulu-4
+    span:
+    - body
+    - 659
+    - 659
+  label: 後周
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0022_X_003-mulu-5
+    span:
+    - body
+    - 1092
+    - 1092
+  label: 遼
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0022_X_003-mulu-6
+    span:
+    - body
+    - 2311
+    - 2311
+  label: 宋一
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0022_X_004-juan-start
+    span:
+    - body
+    - 0
+    - 10687
+  label: 古今圖書集成釋教部彚考卷第四
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0022_X_004-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 宋二
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0022_X_004-mulu-2
+    span:
+    - body
+    - 10251
+    - 10251
+  label: 金
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6r0022_X_005-juan-start
+    span:
+    - body
+    - 0
+    - 17485
+  label: 古今圖書集成釋教部彚考卷第五
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6r0022_X_005-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 元
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6r0022_X_006-juan-start
+    span:
+    - body
+    - 0
+    - 9217
+  label: 古今圖書集成釋教部彚考卷第六
+  type: juan
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6r0022_X_006-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 明
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6r0022_X_006-mulu-2
+    span:
+    - body
+    - 8786
+    - 8786
+  label: 皇清
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6r0022_X_006-mulu-3
+    span:
+    - body
+    - 8788
+    - 8788
+  label: 天聰七年
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6r0022_X_006-mulu-4
+    span:
+    - body
+    - 8858
+    - 8858
+  label: 崇德五年
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6r0022_X_006-mulu-5
+    span:
+    - body
+    - 8895
+    - 8895
+  label: 順治四年
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6r0022_X_006-mulu-6
+    span:
+    - body
+    - 8927
+    - 8927
+  label: 順治十一年
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6r0022_X_006-mulu-7
+    span:
+    - body
+    - 8959
+    - 8959
+  label: 順治十八年
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6r0022_X_006-mulu-8
+    span:
+    - body
+    - 9043
+    - 9043
+  label: 康熙六年
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6r0022_X_006-mulu-9
+    span:
+    - body
+    - 9101
+    - 9101
+  label: 康熙二十三年
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6r0022_X_007-juan-start
+    span:
+    - body
+    - 0
+    - 4206
+  label: 古今圖書集成釋教部彚考卷第七
+  type: juan
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6r0022_X_007-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 佛國記
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6r0022_X_007-mulu-2
+    span:
+    - body
+    - 3
+    - 3
+  label: 鄯善國
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6r0022_X_007-mulu-3
+    span:
+    - body
+    - 65
+    - 65
+  label: 𠌥夷國
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6r0022_X_007-mulu-4
+    span:
+    - body
+    - 96
+    - 96
+  label: 于闐國
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6r0022_X_007-mulu-5
+    span:
+    - body
+    - 469
+    - 469
+  label: 子合國
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6r0022_X_007-mulu-6
+    span:
+    - body
+    - 485
+    - 485
+  label: 竭叉國
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6r0022_X_007-mulu-7
+    span:
+    - body
+    - 702
+    - 702
+  label: 陀歷國
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6r0022_X_007-mulu-8
+    span:
+    - body
+    - 714
+    - 714
+  label: 烏萇國
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6r0022_X_007-mulu-9
+    span:
+    - body
+    - 765
+    - 765
+  label: 弗樓沙國
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6r0022_X_007-mulu-10
+    span:
+    - body
+    - 970
+    - 970
+  label: 那竭國
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6r0022_X_007-mulu-11
+    span:
+    - body
+    - 1238
+    - 1238
+  label: 羅夷國
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6r0022_X_007-mulu-12
+    span:
+    - body
+    - 1253
+    - 1253
+  label: 䟦那國
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6r0022_X_007-mulu-13
+    span:
+    - body
+    - 1268
+    - 1268
+  label: 毗茶國
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6r0022_X_007-mulu-14
+    span:
+    - body
+    - 1328
+    - 1328
+  label: 摩頭羅國
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6r0022_X_007-mulu-15
+    span:
+    - body
+    - 1928
+    - 1928
+  label: 拘薩羅國
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6r0022_X_007-mulu-16
+    span:
+    - body
+    - 2077
+    - 2077
+  label: 摩竭提國
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6r0022_X_007-mulu-17
+    span:
+    - body
+    - 2609
+    - 2609
+  label: 師子國
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6r0022_X_007-mulu-18
+    span:
+    - body
+    - 3541
+    - 3541
+  label: 續博物志
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6r0022_X_007-mulu-19
+    span:
+    - body
+    - 3545
+    - 3545
+  label: 釋氏之源
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6r0022_X_007-mulu-20
+    span:
+    - body
+    - 3678
+    - 3678
+  label: 野客叢談
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6r0022_X_007-mulu-21
+    span:
+    - body
+    - 3682
+    - 3682
+  label: 佛入中國
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6r0022_X_007-mulu-22
+    span:
+    - body
+    - 3930
+    - 3930
+  label: 墨池浪語
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6r0022_X_007-mulu-23
+    span:
+    - body
+    - 3934
+    - 3934
+  label: 佛法入中國
+  type: mulu
+  level: 1
+hash: sha256:06a15e6ba1e655b65fb6d0ad643c327de5c392e9444501b0985f995e963f7f49
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
