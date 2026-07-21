@@ -19,7 +19,7 @@ metadata:
     short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6r0022_000-X.yaml, hash: 'sha256:521e90cbb1439279b97996f8b971feeb92b84204d1d20117a06db8de71eb53a1'}
+  - {seq: 0, filename: KR6r0022_000-X.yaml, hash: 'sha256:cd395d7c7b4cf9ba0e314f660546794d125b6ac929be76b6f9c8a54b8dfc8681'}
   - {seq: 1, filename: KR6r0022_001-X.yaml, hash: 'sha256:a5ca1db8d53f5c388cb2c4f1d574e0730978b70d35275f3c082f7414312fe0bb'}
   - {seq: 2, filename: KR6r0022_002-X.yaml, hash: 'sha256:79af7c79a358b520e1c188fd001e05bd705f6e7dc39136e5df7348e0ab47fbb8'}
   - {seq: 3, filename: KR6r0022_003-X.yaml, hash: 'sha256:1392614a2decb22793de269bd17018b87da53a3c5b634e16f5758f46b81a3f9e'}
@@ -28,7 +28,7 @@ assets:
   - {seq: 6, filename: KR6r0022_006-X.yaml, hash: 'sha256:b519af3bf6fc861a8c07bb81dcdced773c8947ef508ae5801f17e88fc24146f8'}
   - {seq: 7, filename: KR6r0022_007-X.yaml, hash: 'sha256:38cbf9ce22e1f1cc7a20abbd0e803afa0673040dadcc6afe5e0d951e3226423e'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6r0022_000-X.markers.yaml, hash: 'sha256:2547b2d1c3344606065db39452da1894b6faced4e600be79832e48ad47b91fa3'}
+  - {seq: 0, role: markers, filename: assets/KR6r0022_000-X.markers.yaml, hash: 'sha256:74e9958d3b07c63f35a1ba4071c5182f29951ac8230d61bf9ea234ad6422db90'}
   - {seq: 1, role: markers, filename: assets/KR6r0022_001-X.markers.yaml, hash: 'sha256:23dc0e0787138508e83767055dc9505345f202ec63ceac904005025ae8bc052f'}
   - {seq: 2, role: markers, filename: assets/KR6r0022_002-X.markers.yaml, hash: 'sha256:6dd5c296092fcec1b4da5164eea76e715454e87e8ee75ff465c42e0c4f89405a'}
   - {seq: 3, role: markers, filename: assets/KR6r0022_003-X.markers.yaml, hash: 'sha256:3a609755e770955e37b7b8a1ad227747367913cb403094da9ee13fcbf91fcef8'}
@@ -41,7 +41,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6r0022_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: (古今圖書集成)釋教部彚考目次
@@ -677,4 +677,4 @@ table_of_contents:
   label: 佛法入中國
   type: mulu
   level: 1
-hash: sha256:655f2bcdea5fb31efbdc2a4f2b1120bef18a4f5fbbdcf3e8d6ffe8d77e6e7527
+hash: sha256:404f81d0ccbd764e0bcb1edb69a8a3272dea71344cd742b7ea751282b4107741
